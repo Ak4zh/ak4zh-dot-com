@@ -1,6 +1,6 @@
 export const SITE_URL = 'https://ak4zh.com';
 export const APPROVED_POSTERS_GH_USERNAME = ['ak4zh'];
-export const GH_USER_REPO = 'ak4zh/ak4zh'; // used for pulling github issues and offering comments
+export const GH_USER_REPO = 'ak4zh/ak4zh-dot-com'; // used for pulling github issues and offering comments
 export const REPO_URL = 'https://github.com/' + GH_USER_REPO;
 export const SITE_TITLE = '@ak4zh';
 export const SITE_DESCRIPTION = "ak4zh's blog";
